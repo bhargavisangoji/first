@@ -1,0 +1,48 @@
+[33mcommit b647c8dbd4a6b98c8d1ad607bc91f20302e591aa[m[33m ([m[1;36mHEAD -> [m[1;32mfeature[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/feature[m[33m, [m[1;32mmaster[m[33m)[m
+Author: bhargavisangoji <bhargavisangoji21590@gmail.com>
+Date:   Thu Feb 9 21:07:38 2023 +0530
+
+    added a feature file
+
+[33mcommit 4c76d0613c6ed43e690aba9a9ce8b4e09ab37f25[m
+Author: bhargavisangoji <bhargavisangoji21590@gmail.com>
+Date:   Thu Feb 9 21:03:44 2023 +0530
+
+     added a feature
+
+[33mcommit a654fadaf41aa83dca6ddc0d78b4c7941e0635e5[m
+Author: bhargavisangoji <bhargavisangoji21590@gmail.com>
+Date:   Thu Feb 9 20:45:26 2023 +0530
+
+     added a new bugfix
+
+[33mcommit 043da4af7b7b834b368009ffba8575f4ef0b673a[m
+Merge: 4f2a5f9 955a4d5
+Author: bhargavisangoji <bhargavisangoji21590@gmail.com>
+Date:   Thu Feb 9 19:48:04 2023 +0530
+
+    resolved conflicts
+
+[33mcommit 4f2a5f9df8cb6f888db5a5d1c4aa60d6bec1e46d[m
+Author: bhargavisangoji <bhargavisangoji21590@gmail.com>
+Date:   Thu Feb 9 13:06:33 2023 +0530
+
+     added new second line from local repo
+
+[33mcommit 955a4d59a94387393df29668f193b87d6410e2fb[m
+Author: bhargavisangoji <109306546+bhargavisangoji@users.noreply.github.com>
+Date:   Thu Feb 9 13:04:31 2023 +0530
+
+    Update helloworld.sh
+
+[33mcommit e8c8bfe6cb87b0d7954839de4be60f6603244186[m
+Author: bhargavisangoji <bhargavisangoji21590@gmail.com>
+Date:   Thu Feb 9 12:57:27 2023 +0530
+
+    i added a new script
+
+[33mcommit e1d1854ae5b2fb83efd25556a99476ccdba56b01[m
+Author: bhargavisangoji <bhargavisangoji21590@gmail.com>
+Date:   Thu Feb 9 12:49:12 2023 +0530
+
+    this is sample.txt
